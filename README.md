@@ -50,8 +50,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [UTF-8](https://www.youtube.com/watch?v=vLBtrd9Ar28)
 
 ### Latency
-- [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
-- :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
+- [ ] [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
+- [x] :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
 ### Time
 - :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/)
